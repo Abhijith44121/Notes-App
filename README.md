@@ -4,19 +4,19 @@ A simple React-based Notes Application that allows users to create, view, and de
 
 ✨ Features
 
-- **Add New Notes**: Create notes with title, category, priority, and description
-- **Toggle Form**: Show/hide the note creation form
-- **Categorize Notes**: Organize notes by Work, Personal, or Ideas
-- **Priority Levels**: Set priority as High, Medium, or Low with color indicators
-- **Delete Notes**: Remove notes you no longer need
-- **Responsive Design**: Clean and modern UI built with Tailwind CSS
+- Add New Notes: Create notes with title, category, priority, and description
+- Toggle Form: Show/hide the note creation form
+- Categorize Notes: Organize notes by Work, Personal, or Ideas
+- Priority Levels: Set priority as High, Medium, or Low with color indicators
+- Delete Notes: Remove notes you no longer need
+- esponsive Design: Clean and modern UI built with Tailwind CSS
 
 ## 🛠️ Technology Stack
 
-- **React** - Frontend framework
-- **Tailwind CSS** - Styling and responsive design
-- **JavaScript (ES6+)** - Core functionality
-- **React Hooks** - State management (useState)
+- React - Frontend framework
+- Tailwind CSS - Styling and responsive design
+- JavaScript (ES6+) - Core functionality
+- React Hooks - State management (useState)
 
 
 ### Prerequisites
@@ -25,24 +25,15 @@ A simple React-based Notes Application that allows users to create, view, and de
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/notes-app.git
-```
+Make sure you have Node.js v16+ installed.
 
-2. Navigate to the project directory:
 ```bash
-cd notes-app
-```
+git clone https://github.com/Abhijith44121/Notes-App.git
 
-3. Install dependencies:
-```bash
+cd Notes-App
+
 npm install
-```
 
-4. Start the development server:
-```bash
-npm start
-```
+npm run dev
 
-5. Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
+Open [http://localhost:5173](http://localhost:5173) to view it in the browser.
